@@ -9,9 +9,9 @@ In this exercise, we will access the Desktop and RemoteApps using browser.
 
 2. Now to login, enter the lab credentials as mentioned below:
 
-   - Username: 
+   - Username: **<inject key="User 01" />**
 
-   - Password: 
+   - Password: **<inject key="User Password" />**
 
 >**Note:** If there's a dialog box saying Help us protect your account, then select Skip for now option.
 
