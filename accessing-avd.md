@@ -21,8 +21,8 @@ In this exercise, we will access the Desktop and RemoteApps using browser.
 
 5. Enter the lab credentials to access the application and click on Submit.
 
-   - Username:
+   - Username: **<inject key="User 01" />**
 
-   - Password:
+   - Password: **<inject key="User Password" />**
 
 6. The application will launch and will be ready to use.
