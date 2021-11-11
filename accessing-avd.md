@@ -34,3 +34,5 @@ In this exercise, we will access the Desktop and RemoteApps using browser.
    ![ws name.](media/vc4.png)
    
 6. The application will launch and will be ready to use.
+
+   ![ws name.](media/vc5.png)
