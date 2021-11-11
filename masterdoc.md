@@ -1,12 +1,12 @@
 [
   {
-    "Name": "Azure Immersion Workshop: Azure Virtual Desktop (AVD)",
+    "Name": "Virtual Computer Lab Demo",
     "Language": "English",
     "Files": [
       {
-        "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/AIW-Azure-Virtual-Desktop/main/00-Overview.md",
+        "RawFilePath": "https://raw.githubusercontent.com/Eddevinc/Virtual-Computer-Lab-Demo/main/accessing-avd.md",
         "Order": 1
-      },
+      }
      
     ]
   }
